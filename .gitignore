@@ -1,3 +1,4 @@
-# Done for Juypter Notebooks
+# ignore juypter notebook's checkpoints
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
