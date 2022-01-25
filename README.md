@@ -1,9 +1,7 @@
 <img src="https://cogs18.github.io/_static/logo.png" alt="COGS18 Logo" width="300" height="300">
 
 # University of California, San Diego (UCSD) - COGS18: Introduction to Python
-This repository contains my experince taking COGS18 (WI'22) [Introduction to Python] as taught by Prof. [Shannon Ellis](http://shanellis.com) at the University of California, San Diego (UCSD). 
-
-It is a hands-on programming course, focused on teaching students in Cognitive Science and related disciplines an introduction on how to productively use Python.
+This repository contains my experince taking COGS18 (WI'22) [Introduction to Python] as taught by Prof. [Shannon Ellis](http://shanellis.com) at the University of California, San Diego (UCSD). It is a hands-on programming course, focused on teaching students in Cognitive Science and related disciplines an introduction on how to productively use Python.
 
 ## COURSE OVERVIEW
 
