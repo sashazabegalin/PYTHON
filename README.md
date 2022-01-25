@@ -1,6 +1,6 @@
 <img src="https://cogs18.github.io/_static/logo.png" alt="COGS18 Logo" width="300" height="300">
 
-# University of California, San Diego - COGS18: Introduction to Python
+# University of California, San Diego (UCSD) - COGS18: Introduction to Python
 This repository contains my run with COGS18 (WI'22) [Introduction to Python] as taught by Prof. Ellis at the University of California, San Diego. 
 
 ## COURSE OVERVIEW
