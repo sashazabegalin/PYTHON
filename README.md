@@ -24,3 +24,19 @@ At the end of this course it was expected that I would be able to:
 # 
 **Notebooks throughout this repository will be related to cognitive science, focusing on data analysis, artificial intelligence, human-computer interaction, and programmatic thinking.**
 
+## LECTURES OVERVIEW
+- ### Lecture [0] - Introduction
+
+- ### Lecture [1] - Tooling
+
+- ### Lecture [2] - Variables
+
+- ### Lecture [3] - Operators
+
+- ### Lecture [4] - Functions
+
+- ### Lecture [5] - Conditionals
+
+- ### Lecture [6] - Collections
+
+
