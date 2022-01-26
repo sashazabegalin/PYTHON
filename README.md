@@ -24,3 +24,6 @@ At the end of this course it was expected that I would be able to:
 # 
 **Notebooks throughout this repository will be related to cognitive science, focusing on data analysis, artificial intelligence, human-computer interaction, and programmatic thinking.**
 
+
+
+
