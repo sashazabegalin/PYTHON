@@ -25,18 +25,18 @@ At the end of this course it was expected that I would be able to:
 **Notebooks throughout this repository will be related to cognitive science, focusing on data analysis, artificial intelligence, human-computer interaction, and programmatic thinking.**
 
 ## LECTURES OVERVIEW
-- ### Lecture [0] - Introduction
+- ### Lecture [0] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/01-Introduction.ipynb">Introduction<a>
 
-- ### Lecture [1] - Tooling
+- ### Lecture [1] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/02-Tooling.ipynb">Tooling<a>
 
-- ### Lecture [2] - Variables
+- ### Lecture [2] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/03-Variables.ipynb">Variables<a>
 
-- ### Lecture [3] - Operators
+- ### Lecture [3] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/04-Operators.ipynb">Operators<a>
 
-- ### Lecture [4] - Functions
+- ### Lecture [4] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/05-Functions.ipynb">Functions<a>
 
-- ### Lecture [5] - Conditionals
+- ### Lecture [5] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/06-Conditionals.ipynb">Conditionals<a>
 
-- ### Lecture [6] - Collections
+- ### Lecture [6] - <a href="https://github.com/sashazabegalin/cogs18/blob/main/lecture-notes/07-Collections.ipynb">Collections<a>
 
 
